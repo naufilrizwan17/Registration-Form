@@ -1,7 +1,7 @@
 # Registration-Form
 GUI using Tkinter library in Python
 Picture of coordinates system in tkinter:
-https://user-images.githubusercontent.com/108338824/176746429-9de020d6-af23-4dc6-a3cc-d52b96169395.png
+
 
 Websites regarding interesting features in tkinter used to make various GUIS:
 
